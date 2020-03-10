@@ -32,7 +32,7 @@
 </tr>
 <tr>
     <td>13</td>
-    <td>21</td>
+    <td>(21)</td>
     <td>3</td>
     <td>20</td>
     <td>2</td>
